@@ -1,4 +1,4 @@
-- hosts: test
+- hosts: dev
 
   tasks:
     - name: download tomcat from dlcdn
